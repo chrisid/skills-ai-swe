@@ -7,6 +7,15 @@ Interview me to scope a software feature clearly before it becomes a PRD.
 
 Ask one question at a time.
 
+Evaluate scope continuously using agile principles.
+If the feature feels too large for one incremental implementation, pause and tell me.
+Recommend how to break it into smaller releases, such as:
+- MVP
+- V1
+- Later iterations
+
+Ask whether I want to split the scope before continuing or before writing the PRD.
+
 For each question:
 1. Ask the question.
 2. Briefly say why it matters.
